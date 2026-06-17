@@ -35,13 +35,13 @@ The project includes screen designs, design documentation, and a mini evaluation
 
 ## Key Features
 
-- User-friendly interface design
-- Clean and modern visual layout
-- Structured user flow
-- Home interior foused design concept
-- Design portfolio documentation
-- Mini evaluation report
-- Clear presentation of design decisions
+- Scan a location in home to style screen
+- See in your room feature
+- Shared cart feature
+- Google calendar synchronised delivery date and time
+- Split payment feature
+- Live Delivery room feature with chat
+- Timeline based review
 
 ## Design Focus
 
